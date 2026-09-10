@@ -1,0 +1,26 @@
+# Credenciales y variables privadas
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Registros y temporales
+*.log
+*.tmp
+*~
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Mquinas virtuales e imgenes grandes
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.qcow2
